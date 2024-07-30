@@ -23,7 +23,7 @@ This project demonstrates a proof-of-concept (POC) for integrating the tawk.io A
 See the chatbot in action:
 
 - Web:  <br />
-<video src="https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/Screen%20Recording%202024-07-26%20at%2011.20.15%E2%80%AFAM.mov"></video>
+<video src="https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/Screen%20Recording%202024-07-26%20at%2011.20.15%E2%80%AFAM.mov" height="500" width = "300"></video>
 - Mobile:  <br />
 <video src="https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/screen-20240726-112938.mp4"></video>
 
