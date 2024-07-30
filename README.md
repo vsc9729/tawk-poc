@@ -65,7 +65,7 @@ Follow the following steps to add the chatbot to flutter:
 3. Display Chat:
  - Use a WebView widget to display the chat (e.g., in a bottom modal sheet).
  - Trigger the chat with a Floating Action Button.
-![Flutter Mobile Chat Implementation](readme files/Screenshot 2024-07-26 at 10.53.49 AM.png)
+![Flutter Mobile Chat Implementation]([readme files/Screenshot 2024-07-26 at 10.53.49 AM.png](https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/Screenshot%202024-07-26%20at%2010.53.49%E2%80%AFAM.png))
 ![Flutter Mobile Chat Implementation](readme files/Screenshot 2024-07-26 at 10.54.38 AM.png)
 
 ## Additional Notes
