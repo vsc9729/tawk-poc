@@ -23,7 +23,7 @@ This project demonstrates a proof-of-concept (POC) for integrating the tawk.io A
 See the chatbot in action:
 
 - Web:  <br />
-![Screen Recording 2024-07-26 at 11.20.15 AM.mov](./readme files/Screen Recording 2024-07-26 at 11.20.15 AM.mov)
+![](./readme files/Screen Recording 2024-07-26 at 11.20.15 AM.mov)
 - Mobile:  <br />
 ![screen-20240726-112938.mp4](./readme files/screen-20240726-112938.mp4)
 
