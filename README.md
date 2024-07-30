@@ -23,9 +23,9 @@ This project demonstrates a proof-of-concept (POC) for integrating the tawk.io A
 See the chatbot in action:
 
 - Web:  <br />
-![Screen Recording 2024-07-26 at 11.20.15 AM.mov](readme files/Screen Recording 2024-07-26 at 11.20.15 AM.mov)
+![Screen Recording 2024-07-26 at 11.20.15 AM.mov](./readme files/Screen Recording 2024-07-26 at 11.20.15 AM.mov)
 - Mobile:  <br />
-![screen-20240726-112938.mp4](readme files/screen-20240726-112938.mp4)
+![screen-20240726-112938.mp4](./readme files/screen-20240726-112938.mp4)
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ Follow the following steps to setup your tawk io chatbot:
  4. Channels: Navigate to the "Channels" section > "Chat Widget." You'll find your:
     - Direct Chat Link: Used for mobile integration.
     - Widget Code: Used for web integration.
-![Tawk.io Dashboard Screenshot](readme files/Screenshot 2024-07-23 at 1.34.05 PM.png)
+![Tawk.io Dashboard Screenshot](./readme files/Screenshot 2024-07-23 at 1.34.05 PM.png)
 
 ### Flutter Integration
 
@@ -57,7 +57,7 @@ Follow the following steps to add the chatbot to flutter:
 1. Enable Flutter Web: Ensure your project supports web compilation.
 2. Index.html: Open web/index.html.
 3. Paste Widget Code: Insert the Widget Code from tawk.io before the opening body tag.
-![Tawk.io Widget Code in index.html](readme files/Screenshot 2024-07-26 at 10.30.59 AM.png)
+![Tawk.io Widget Code in index.html](./readme files/Screenshot 2024-07-26 at 10.30.59 AM.png)
 
 #### Flutter Mobile
 1. Add Dependency: Include webview_flutter in your pubspec.yaml.
@@ -65,8 +65,8 @@ Follow the following steps to add the chatbot to flutter:
 3. Display Chat:
  - Use a WebView widget to display the chat (e.g., in a bottom modal sheet).
  - Trigger the chat with a Floating Action Button.
-![Flutter Mobile Chat Implementation](readme files/Screenshot 2024-07-26 at 10.53.49 AM.png)
-![Flutter Mobile Chat Implementation](readme files/Screenshot 2024-07-26 at 10.54.38 AM.png)
+![Flutter Mobile Chat Implementation](./readme files/Screenshot 2024-07-26 at 10.53.49 AM.png)
+![Flutter Mobile Chat Implementation](./readme files/Screenshot 2024-07-26 at 10.54.38 AM.png)
 
 ## Additional Notes
 - Customization: Explore tawk.io's documentation to customize the chat widget further.
