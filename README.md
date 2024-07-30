@@ -23,9 +23,9 @@ This project demonstrates a proof-of-concept (POC) for integrating the tawk.io A
 See the chatbot in action:
 
 - Web:  <br />
-![](readme files/Screen Recording 2024-07-26 at 11.20.15 AM.mov)
+![](https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/Screen%20Recording%202024-07-26%20at%2011.20.15%E2%80%AFAM.mov)
 - Mobile:  <br />
-![](readme files/screen-20240726-112938.mp4)
+![](https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/screen-20240726-112938.mp4)
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ Follow the following steps to setup your tawk io chatbot:
  4. Channels: Navigate to the "Channels" section > "Chat Widget." You'll find your:
     - Direct Chat Link: Used for mobile integration.
     - Widget Code: Used for web integration.
-![Tawk.io Dashboard Screenshot](readme files/Screenshot 2024-07-23 at 1.34.05 PM.png)
+![Tawk.io Dashboard Screenshot](https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/Screenshot%202024-07-23%20at%201.34.05%E2%80%AFPM.png)
 
 ### Flutter Integration
 
@@ -57,7 +57,7 @@ Follow the following steps to add the chatbot to flutter:
 1. Enable Flutter Web: Ensure your project supports web compilation.
 2. Index.html: Open web/index.html.
 3. Paste Widget Code: Insert the Widget Code from tawk.io before the opening body tag.
-![Tawk.io Widget Code in index.html](readme files/Screenshot 2024-07-26 at 10.30.59 AM.png)
+![Tawk.io Widget Code in index.html](https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/Screenshot%202024-07-26%20at%2010.30.59%E2%80%AFAM.png)
 
 #### Flutter Mobile
 1. Add Dependency: Include webview_flutter in your pubspec.yaml.
@@ -66,7 +66,7 @@ Follow the following steps to add the chatbot to flutter:
  - Use a WebView widget to display the chat (e.g., in a bottom modal sheet).
  - Trigger the chat with a Floating Action Button.
 ![Flutter Mobile Chat Implementation](https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/Screenshot%202024-07-26%20at%2010.53.49%E2%80%AFAM.png)
-![Flutter Mobile Chat Implementation](readme files/Screenshot 2024-07-26 at 10.54.38 AM.png)
+![Flutter Mobile Chat Implementation](https://github.com/vsc9729/tawk-poc/blob/2180cd7334dee0c8aed1e4e4008d3b18dca36ab5/readme%20files/Screenshot%202024-07-26%20at%2010.54.38%E2%80%AFAM.png)
 
 ## Additional Notes
 - Customization: Explore tawk.io's documentation to customize the chat widget further.
